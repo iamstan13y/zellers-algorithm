@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\zellers algorithm\bin\Debug\netcoreapp3.0\zellers algorithm.exe
+C:\Users\user\source\repos\zellers algorithm\bin\Debug\netcoreapp3.0\zellers algorithm.deps.json
+C:\Users\user\source\repos\zellers algorithm\bin\Debug\netcoreapp3.0\zellers algorithm.runtimeconfig.json
+C:\Users\user\source\repos\zellers algorithm\bin\Debug\netcoreapp3.0\zellers algorithm.runtimeconfig.dev.json
+C:\Users\user\source\repos\zellers algorithm\bin\Debug\netcoreapp3.0\zellers algorithm.dll
+C:\Users\user\source\repos\zellers algorithm\bin\Debug\netcoreapp3.0\zellers algorithm.pdb
+C:\Users\user\source\repos\zellers algorithm\obj\Debug\netcoreapp3.0\zellers algorithm.csprojAssemblyReference.cache
+C:\Users\user\source\repos\zellers algorithm\obj\Debug\netcoreapp3.0\zellers algorithm.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\zellers algorithm\obj\Debug\netcoreapp3.0\zellers algorithm.AssemblyInfo.cs
+C:\Users\user\source\repos\zellers algorithm\obj\Debug\netcoreapp3.0\zellers algorithm.dll
+C:\Users\user\source\repos\zellers algorithm\obj\Debug\netcoreapp3.0\zellers algorithm.pdb
+D:\source\repos\zellers algorithm\obj\Debug\netcoreapp3.0\zellers algorithm.dll
+D:\source\repos\zellers algorithm\obj\Debug\netcoreapp3.0\zellers algorithm.pdb
